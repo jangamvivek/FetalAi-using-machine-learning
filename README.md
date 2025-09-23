@@ -100,7 +100,7 @@
 <h3><strong>Steps</strong></h3>
 <ol>
     <li>Clone the repository:
-    <pre><code>git clone https://github.com/saurabh9921/fetalai-using-machine-learning.git</code></pre></li>
+    <pre><code>git clone https://github.com/jangamvivek/FetalAi-using-machine-learning</code></pre></li>
     <li>Navigate to the project directory:
     <pre><code>cd FetalAI-USING-MACHINE-LEARNING</code></pre></li>
     <li>Install the required dependencies:
